@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@theme {
+@theme inline {
   --color-navy: #0a1f44;
   --color-navy-light: #0d2a5e;
   --color-orange: #ff6b00;
@@ -10,7 +10,8 @@
   --color-text-body: #666;
   --color-text-dark: #444;
 
-  --font-bebas: "Bebas Neue", sans-serif;
+  --font-sans: var(--font-montserrat), "Montserrat", sans-serif;
+  --font-serif: var(--font-bebas), "Bebas Neue", sans-serif;
 }
 
 /* Base reset */

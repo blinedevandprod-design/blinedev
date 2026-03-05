@@ -56,7 +56,7 @@ export default function CarWrapping() {
         </video>
       </div>
       <div className="flex-none w-[480px] pl-0">
-        <h2 className="font-bebas text-6xl tracking-widest text-white leading-none mb-4">
+        <h2 className="font-serif text-6xl tracking-widest text-white leading-none mb-4">
           {"Servicio de "}
           <span className="text-orange">Car Wrapping</span>
         </h2>
