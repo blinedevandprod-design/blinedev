@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[86336,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js"],"Provider"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"default"]
+5:I[29306,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/5956f812d3a12e66.js"],"default"]
+6:I[77855,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js"],"Toaster"]
+7:I[13354,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js"],"Toaster"]
+8:I[45678,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+9:I[7887,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+a:I[93337,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+b:I[15419,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+c:I[11581,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+d:I[30085,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+e:I[17683,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+f:I[13642,["/_next/static/chunks/4eea278f78d2e37a.js","/_next/static/chunks/d94b032bcb0afac8.js","/_next/static/chunks/bec7c72fb7631a7a.js","/_next/static/chunks/4f96f671f093599a.js"],"default"]
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"MetadataBoundary"]
+17:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"default"]
+:HL["/_next/static/chunks/2fb2ad78fda38855.css","style"]
+0:{"P":null,"b":"oZC6kyRJtzPEWynYxgG-7","c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fb2ad78fda38855.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/4eea278f78d2e37a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d94b032bcb0afac8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}],["$","$L7",null,{}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background","children":[["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/bec7c72fb7631a7a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/4f96f671f093599a.js","async":true,"nonce":"$undefined"}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],{},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}],false]],"m":"$undefined","G":["$17",[]],"S":true}
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+16:[["$","title","0",{"children":"Premium Packaging Showcase"}],["$","meta","1",{"name":"description","content":"Showcase of premium packaging solutions"}]]
